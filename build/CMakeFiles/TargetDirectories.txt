@@ -1,0 +1,4 @@
+/home/gabi/Desktop/TicTacToe/build/CMakeFiles/server.dir
+/home/gabi/Desktop/TicTacToe/build/CMakeFiles/client.dir
+/home/gabi/Desktop/TicTacToe/build/CMakeFiles/edit_cache.dir
+/home/gabi/Desktop/TicTacToe/build/CMakeFiles/rebuild_cache.dir
